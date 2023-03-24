@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭I am a fullstack developer from Orange County, CA.</br></br>👩‍💻 I am proficient in JavaScript(ES5, ES6), HTML5, CSS3, React.js, Node.js, Express.js, and PostgreSQL. </br></br>🌱 I am currently learning C# and Microsoft SQL Server.</br></br>
+🔭I am a fullstack developer from Orange County, CA.</br></br>💻 I am proficient in JavaScript(ES5, ES6), HTML5, CSS3, React.js, Node.js, Express.js, and PostgreSQL. </br></br>🌱 I am currently learning C# and Microsoft SQL Server.</br></br>
 <br>
 <br>
 <br>
